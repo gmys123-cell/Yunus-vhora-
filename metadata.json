@@ -1,0 +1,6 @@
+{
+  "name": "NGO Management Pro",
+  "description": "NGO Management Pro for Gujarat Muslim Yuva Sangathan (GMYS) - Members, Donations, Accounting, Projects, and Field Operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
